@@ -1,0 +1,79 @@
+{
+  "WBUI2": {
+	"settings":
+	{
+		"OpenButton": 0,
+		"HideIcon": false,
+		"HideIconAfter": 1,
+		"IconURL": "",
+		"DisableIconText": false,
+		"IconPosition": 0,
+		"IconTextColor": 0,
+		"OpenOnStart": true,
+		"OpenOnStartOnlyNewPlayers": false,
+		"UpdateInterval": 12
+	},
+	"tabs": [
+		{
+			"tab1":
+			{
+				"layout": 2,
+				"buttontext": "<TextStyle.Red> Welcome </>",
+				"title1": "<TextStyle.Blue> Welcome On Light's servers </>",
+				"title2": "<TextStyle.Blue> Settings </>",
+				"text1": "\r\n\r\nHi, all Community has been a close-knit community of gamers since January 2016. 1 Owner 2 Admins to help you ingame and on discord. System ticket on discord.\r\n\r\n\r\n\r\n          1. F1 For menu - Hold X on XBOX - Hold square on PS5\r\n          2. Shop & Kits in F2, for console players go tab shop.\r\n          3. Join the discord for all details - infos - news.\r\n          4. Link Donate to buy points.\r\n          5. To find dinos go in your inventory/map/open finder.\r\n",
+				"text2": "\r\n\r\n          ● XP: x10, Harvest: x100, Taming: x20\r\n          ● Breed x10, Gestation: x10, Egg Hatch: x10\r\n          ● Player Level: 100\r\n          ● Level Wild 150 \r\n          ● Keep all your Stuff on Death with (Death Inventory Keeper)\r\n",
+				"imageurl": "https://images5.alphacoders.com/740/740577.png"
+			}
+		},
+		{
+			"tab2":
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.Red> Rules </>",
+				"title1": "<TextStyle.Blue> Rules </>",
+				"text1": "\r\n\r\n\r\n          1. Do not undermesh, glitch, exploit, insults, racism, abuse or cheat.\r\n          2. You are not allowed to spam foundations to excess. (This applies to all structures).\r\n          3. Don't build too close to another base.\r\n          4. Generated boss dinos are 'FORBIDDEN' in other players' bases. if I have a report with proof its a ban.\r\n          5. Pick up your trap after taming.\r\n          6. Your inventory will not be replaced if it is lost. As such please make BPs of any items, clone all your tames and soultrap them, we dont refund.\r\n          7. Don’t use Ark Data to transfert your dinos and stuffs between cluster. NO REFUND.\r\n          8. Forbidden on setting up a personal store ... Rip structures.\r\n          9. 9 oceanic platforms per Tribe 3X3\r\n",
+				"imageurl": "https://i.imgur.com/YqOg6z4.jpg"
+			}
+		},
+		{
+			"tab3":
+			{
+				"layout": 2,
+				"buttontext": "<TextStyle.Red> Shop </>",
+				"title1": "<TextStyle.Blue> Shop </>",
+				"text1": "\r\n\r\n\r\nShop for console players, you have all codes to buy kits.\r\nEvery 20 minutes, you have a message in the global chat with your amount of points.\r\n\r\n     Starter kit (3 free): /kit 01\r\n\r\n     How buy kit. Example Kit UltimateTekPlot\r\n     /buy 14 1\r\n",
+				"imageurl": "https://i.imgur.com/zDVrnF1.jpg",
+				"title2": "<TextStyle.Blue> Id Commands </>",
+				"text2": "\r\n        Kits                                                       Prices\r\n\r\n   ● ID Starter - Kit Starter - 3free         ➢➢➢       100 Points\r\n   ● ID 00 - Kit Farming - All Bench       ➢➢➢       300 Points\r\n   ● ID 01 - Kit Seed Tier1 -                    ➢➢➢        100 Points\r\n   ● ID 02 - Kit Seed Tier2 -                    ➢➢➢         200 Points\r\n   ● ID 03 - Kit Seed Tier3 -                    ➢➢➢         300 Points\r\n   ● ID 04 - Kit Seed Tier4 -                    ➢➢➢         400 Points\r\n   ● ID 05 - Kit Seed Tier5 -                    ➢➢➢         500 Points\r\n   ● ID 06 - Kit Boss Tier - rare seed     ➢➢➢       1000 Points   \r\n   ● ID 07 - Kit Basic Kibbles                  ➢➢➢       1000 Points\r\n   ● ID 08 - Kit Delta Kibbles                   ➢➢➢       1500 Points\r\n   ● ID 09 - Kit Gamma Kibbles               ➢➢➢       2000 Points\r\n   ● ID 10 - Kit Beta Kibbles                    ➢➢ ➢       2500 Points\r\n   ● ID 11 - Kit Alpha Kibbles                  ➢➢➢        3000 Points\r\n   ● ID 12 - Kit Elite Kibbles                    ➢➢➢         3500 Points\r\n   ● ID 13 - kit TekPlot - 5 TekPlots       ➢➢➢        1000 Points\r\n   ● ID 14 - kit Ultimate TekPlot - 1        ➢➢➢        3000 Points\r\n   ● ID 15 - kit Taming - 30 arrows         ➢➢➢           800 Points\r\n"
+			}
+		},
+		{
+			"tab4":
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.Red> Donation </>",
+				"title1": "<TextStyle.Blue> Donation </>",
+				"text1": "\r\n    \r\n By default, you start with 0 points and you have 30 points every 20 minutes.\r\n\r\n\r\n\r\n     Vip Stone     : 05 euros  1000 points 35 points every 20 min for 2 weeks. VIP on discord. Icon Vip ingame.\r\n     Vip Bronze   : 10 euros  3000 points 40 points every 20 min for 1 month. VIP on discord. Icon Vip ingame.\r\n     Vip Silver      : 20 euros  8000 points 45 points every 20 min for 1 month. VIP on discord. Icon Vip ingame.\r\n     Vip Gold        : 30 euros 12000 points 50 points every 20 min for 1 month. VIP on discord. Icon Vip ingame.\r\n     Vip Platinum : 50 euros 25000 points 60 points every 20 min for 1 month. VIP on discord. Icon Vip ingame.\r\n     Vip God        : 100 euros 50000 points 80 points every 20 min for 2 months. VIP on discord. Icon Vip ingame. Works on all light ASA servers.\r\n\r\n\r\n\r\n     After a purchase wait 10 sec to get your VIP pack.\r\n     After a wipe you start Automatically with your Vip pack.\r\n     All donations allow to keep the server alive and to buy new plugins.\r\n",
+				"imageurl": "https://images5.alphacoders.com/740/740577.png"
+			}
+		}
+	],
+	"links": [
+		{
+			"link1":
+			{
+				"text": "<TextStyle.Violet> Discord </>",
+				"url": "https://discord.gg/ck53jj2EB5"
+			}
+		},
+		{
+			"link2":
+			{
+				"text": "<TextStyle.Yellow> Donate </>",
+				"url": "https://light.tip4serv.com/"
+			}
+		}
+	]
+}
+}
